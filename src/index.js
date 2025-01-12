@@ -1,0 +1,2 @@
+import './nickname';
+import './phone';
